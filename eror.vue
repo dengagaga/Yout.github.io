@@ -1,5 +1,5 @@
 <template>
-    <h1>Eror</h1>
+    <h1>Eror 222</h1>
 </template>
 <script setup>
 
